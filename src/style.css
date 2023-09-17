@@ -1,4 +1,6 @@
-* {
-  color: black;
-  background-color: #f34848;
+.tile {
+  height: 100px;
+  width: 25%;
+  float: left;
 }
+
